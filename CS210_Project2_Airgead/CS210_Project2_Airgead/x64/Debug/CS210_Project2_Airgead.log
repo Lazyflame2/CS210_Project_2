@@ -1,0 +1,5 @@
+﻿  Main.cpp
+  ProjectionManager.cpp
+C:\Users\SDX_Admin\source\repos\CS210_Project2_Airgead\CS210_Project2_Airgead\ProjectionManager.cpp(181,16): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+  Generating Code...
+  CS210_Project2_Airgead.vcxproj -> C:\Users\SDX_Admin\source\repos\CS210_Project2_Airgead\x64\Debug\CS210_Project2_Airgead.exe

@@ -1,0 +1,8 @@
+﻿  Main.cpp
+  ProjectionManager.cpp
+C:\Users\SDX_Admin\source\repos\CS210_Project2_Airgead\CS210_Project2_Airgead\ProjectionManager.cpp(181,16): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 27 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  CS210_Project2_Airgead.vcxproj -> C:\Users\SDX_Admin\source\repos\CS210_Project2_Airgead\x64\Release\CS210_Project2_Airgead.exe
